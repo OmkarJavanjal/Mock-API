@@ -1,6 +1,7 @@
 # Mock-API
 mock api using json server
 
+#Run- npm install  -will install dependencies
 
 #To start the server:
 		run- node createMockDb.js  -will create dummy db.json json file of existing mock-data
